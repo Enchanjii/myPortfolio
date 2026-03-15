@@ -139,7 +139,7 @@
                                     <span
                                         class="px-2 py-1 bg-blue-50 text-blue-600 text-xs rounded font-medium">JavaScript</span>
                                 </div>
-                                <a href="#"
+                                <a href="https://enchanjii.github.io/myProfile/#"
                                     class="text-blue-600 font-medium hover:text-blue-800 inline-flex items-center">View
                                     Project <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor"
                                         viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
