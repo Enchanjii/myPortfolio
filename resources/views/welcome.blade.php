@@ -84,7 +84,7 @@
                                     <span
                                         class="px-2 py-1 bg-blue-50 text-blue-600 text-xs rounded font-medium">JavaScript</span>
                                 </div>
-                                <a href="#"
+                                <a href="https://enchanjii.github.io/EcoCycle/#"
                                     class="text-blue-600 font-medium hover:text-blue-800 inline-flex items-center">View
                                     Project <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor"
                                         viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -101,15 +101,16 @@
                                 <img src="EmotiTrack.png" alt="EmotiTrack System" class="w-full h-full object-cover">
                             </div>
                             <div class="p-6 flex-grow flex flex-col">
-                                <h4 class="text-xl font-bold mb-2 text-gray-900">EmotiTrack System</h4>
+                                <h4 class="text-xl font-bold mb-2 text-gray-900">EmotiTrack Desktop App</h4>
                                 <p class="text-gray-600 mb-4 flex-grow">Developed in NetBeans, this system rewards
                                     emotional awareness by granting points for exercising or meditating, turning
                                     self-care into a tangible wellness tracker.</p>
                                 <div class="flex flex-wrap gap-2 mb-4">
-                                    <span class="px-2 py-1 bg-blue-50 text-blue-600 text-xs rounded font-medium">IDE
-                                        Netbeans</span>
+                                    <span class="px-2 py-1 bg-blue-50 text-blue-600 text-xs rounded font-medium">Java</span>
+                                    <span
+                                        class="px-2 py-1 bg-blue-50 text-blue-600 text-xs rounded font-medium">Swing GUI</span>
                                 </div>
-                                <a href="#"
+                                <a href="https://enchanjii.github.io/Group6_EmotiTrack/#"
                                     class="text-blue-600 font-medium hover:text-blue-800 inline-flex items-center">View
                                     Project <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor"
                                         viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -137,7 +138,7 @@
                                     <span
                                         class="px-2 py-1 bg-blue-50 text-blue-600 text-xs rounded font-medium">JavaScript</span>
                                 </div>
-                                <a href="#"
+                                <a href="https://enchanjii.github.io/myProfile/#"
                                     class="text-blue-600 font-medium hover:text-blue-800 inline-flex items-center">View
                                     Project <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor"
                                         viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
