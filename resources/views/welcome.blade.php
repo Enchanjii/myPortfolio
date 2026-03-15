@@ -66,7 +66,7 @@
                     </div>
 
                     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                        
+
                         <!-- Project Card 1 -->
                         <div
                             class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-lg transition-shadow border border-gray-100 flex flex-col">
@@ -139,7 +139,7 @@
                                     <span
                                         class="px-2 py-1 bg-blue-50 text-blue-600 text-xs rounded font-medium">JavaScript</span>
                                 </div>
-                                <a href="https://enchanjii.github.io/myProfile/#"
+                                <a href="#"
                                     class="text-blue-600 font-medium hover:text-blue-800 inline-flex items-center">View
                                     Project <svg class="w-4 h-4 ml-1" fill="none" stroke="currentColor"
                                         viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
